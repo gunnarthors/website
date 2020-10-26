@@ -1,0 +1,4 @@
+baseURL = "http://www.gunnarthors.com"
+languageCode = "en-us"
+title = "gunnarthors"
+theme = "hermit"
