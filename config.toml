@@ -1,4 +1,4 @@
-baseURL = "https://gunnarthors.com"
+baseURL = "/"
 languageCode = "en-us"
 title = "gunnarthors"
 theme = "hermit"
